@@ -1,3 +1,5 @@
+![Pittica](https://github.com/pittica/art/raw/master/logo/positive/color.png)
+
 # pittica/art
 
 Pittica logo and other artworks.
