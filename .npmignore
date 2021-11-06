@@ -4,3 +4,7 @@ logs
 .DS_Store
 thumbs.db
 desktop.ini
+src
+images
+art.code-workspace
+.github

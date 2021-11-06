@@ -1,0 +1,57 @@
+{
+  "name": "@pittica/art",
+  "private": false,
+  "description": "Pittica logo and other artworks.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Lucio Benini",
+    "email": "info@pittica.com",
+    "url": "https://pittica.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pittica/gatsby-plugin-cookiehub/issues"
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/pittica/gatsby-plugin-cookiehub",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gdpr",
+    "cookiehub"
+  ],
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/preset-react": "^7.16.0",
+    "prettier": "^2.4.1",
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "test": "react-scripts test",
+    "prepare": "rimraf ./dist && mkdirp ./dist && babel src --out-dir dist --copy-files"
+  },
+  "main": "dist/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pittica/gatsby-plugin-cookiehub.git"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "config": {
+    "access": "public"
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-react"
+      ]
+    ]
+  }
+}

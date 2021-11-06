@@ -8,6 +8,5 @@ desktop.ini
 /.pnp
 .pnp.js
 
-# Locks
-package-lock.json
-yarn.lock
+# Distribution
+/dist
