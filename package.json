@@ -2,22 +2,20 @@
   "name": "@pittica/art",
   "private": false,
   "description": "Pittica logo and other artworks.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "Lucio Benini",
     "email": "info@pittica.com",
     "url": "https://pittica.com"
   },
   "bugs": {
-    "url": "https://github.com/pittica/gatsby-plugin-cookiehub/issues"
+    "url": "https://github.com/pittica/art/issues"
   },
   "deprecated": false,
-  "homepage": "https://github.com/pittica/gatsby-plugin-cookiehub",
+  "homepage": "https://github.com/pittica/art",
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gdpr",
-    "cookiehub"
+    "art",
+    "pittica"
   ],
   "dependencies": {
     "classnames": "^2.3.1",
@@ -39,7 +37,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pittica/gatsby-plugin-cookiehub.git"
+    "url": "git+https://github.com/pittica/art.git"
   },
   "eslintConfig": {
     "extends": "react-app"
