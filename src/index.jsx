@@ -6,5 +6,16 @@ import Gropiusstadt from "./components/artworks/gropiusstadt"
 import Keys from "./components/artworks/keys"
 import Underground from "./components/artworks/underground"
 import Wall from "./components/artworks/wall"
+import Credits from "./components/credits"
 
-export { Logo, Icon, Airplane, Baskets, Gropiusstadt, Keys, Underground, Wall }
+export {
+  Logo,
+  Icon,
+  Airplane,
+  Baskets,
+  Gropiusstadt,
+  Keys,
+  Underground,
+  Wall,
+  Credits,
+}
